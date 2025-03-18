@@ -1,0 +1,34 @@
+<svg viewBox="0 0 1565 880" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<clipPath id="c0_3"><path d="M-.2 880.3V-.2H1565.5V880.3Z"/></clipPath>
+<clipPath id="c1_3"><path d="M1099.8 828.3c-64.1 0-116-52.1-116-116c0-63.8 51.8-115.9 115.7-115.9c.1 0 .2 0 .3 0c32.4 0 61.9 13.4 83 35.1l64.8-64.9c-32.8-32.2-53.2-77.2-53.2-126.7c0-44 16.1-84.4 42.9-115.6l-65.6-65.6c-19.9 15.7-44.8 25.1-71.9 25.1c-64.1 0-116-52.2-116-116.1c0-64 52.1-116 116-116c63.9 0 116 52 116 116c0 31.7-12.8 60.3-33.3 81.3l64.7 64.7c32.1-31.8 76.2-51.4 124.8-51.4c98 0 177.7 79.7 177.9 177.6c0 97.9-79.6 177.6-177.6 177.6c-43.2 0-82.8-15.5-113.7-41.2l-66.1 66.1c14.6 19.4 23.3 43.7 23.3 69.9c0 64-52.1 116-116 116Z"/></clipPath>
+<clipPath id="c2_3"><path d="M1099.8 813.7c-55.9 0-101.5-45.4-101.5-101.4c0-56.1 45.4-101.5 101.5-101.5c55.9 0 101.5 45.4 101.5 101.5c0 56-45.6 101.4-101.5 101.4Z"/></clipPath>
+<clipPath id="c3_3"><path d="M1100 269.1c-56.1 0-101.7-45.5-101.7-101.4c0-55.9 45.4-101.4 101.5-101.4c55.9 0 101.5 45.4 101.5 101.4c0 29.3-12.5 55.6-32.3 74.1c-.8 .3-1.5 .8-2.2 1.6c-.4 .4-.8 .9-1.1 1.4c-17.7 15-40.7 24.3-65.7 24.3Z"/></clipPath>
+<clipPath id="c4_3"><path d="M1372 603.1c-89.9 0-163-73.1-163-163c0-89.9 73.1-163.1 163-163.1c89.9 0 163 73.2 163 163.1c0 89.9-73 163-163 163Z"/></clipPath>
+<style>
+.g0_3{fill:#FFF;}
+.g1_3{fill:#001A2E;}
+.g2_3{fill:#000;fill-opacity:0;}
+</style>
+</defs>
+<g clip-path="url(#c0_3)">
+<path d="M0 0H1565.2V880H0V0Z" class="g0_3"/>
+<path d="M0 0H1565.2V880H0V0Z" class="g1_3"/>
+</g>
+<path clip-path="url(#c1_3)" d="M983.8 51.7h565.9v777H983.8V51.7Z" class="g0_3"/>
+<image clip-path="url(#c2_3)" preserveAspectRatio="none" x="936" y="611" width="327" height="203" href="img/1.jpg"/>
+<image clip-path="url(#c3_3)" preserveAspectRatio="none" x="948" y="66" width="304" height="204" href="img/2.jpg"/>
+<image clip-path="url(#c4_3)" preserveAspectRatio="none" x="1209" y="223" width="327" height="434" href="img/3.jpg"/>
+<g clip-path="url(#c0_3)">
+<image preserveAspectRatio="none" x="0" y="715" width="664" height="149" href="img/4.png"/>
+<image preserveAspectRatio="none" x="26" y="187" width="562" height="106" href="img/5.png"/>
+<image preserveAspectRatio="none" x="0" y="47" width="366" height="188" href="img/6.png"/>
+<image preserveAspectRatio="none" x="496" y="252" width="564" height="188" href="img/7.png"/>
+<image preserveAspectRatio="none" x="547" y="401" width="562" height="110" href="img/8.png"/>
+<image preserveAspectRatio="none" x="27" y="584" width="508" height="128" href="img/9.png"/>
+<image preserveAspectRatio="none" x="0" y="451" width="569" height="188" href="img/10.png"/>
+<image preserveAspectRatio="none" x="1281" y="47" width="251" height="47" href="img/11.png"/>
+<image preserveAspectRatio="none" x="1262" y="0" width="226" height="92" href="img/12.png"/>
+</g>
+<path d="M983.8 828.3h565.9V51.7H983.8V828.3Z" class="g2_3"/>
+</svg>
