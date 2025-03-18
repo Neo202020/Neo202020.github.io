@@ -1,0 +1,29 @@
+<svg viewBox="0 0 1565 880" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<clipPath id="c0_16"><path d="M-.2 880.3V-.2H1565.5V880.3Z"/></clipPath>
+<clipPath id="c1_16"><path d="M630.8 880.3V158.9h934.7V880.3Z"/></clipPath>
+<clipPath id="c2_16"><path d="M460.7 792.5v-3.3h-7.3v3.3Zm212.5 0v-3.3h-16v3.3ZM-.2 880.3V-.2H1565.5V880.3Z"/></clipPath>
+<style>
+.g0_16{fill:#FFF;}
+.g1_16{fill:#000;}
+.g2_16{fill:#000;fill-opacity:0;}
+</style>
+</defs>
+<g clip-path="url(#c0_16)">
+<path d="M0 0H1565.2V880H0V0Z" class="g0_16"/>
+<path d="M0 0H1565.2V880H0V0Z" class="g1_16"/>
+<image preserveAspectRatio="none" x="0" y="-81" width="1565" height="1044" href="img/1.jpg"/>
+</g>
+<image clip-path="url(#c1_16)" preserveAspectRatio="none" x="631" y="159" width="1082" height="721" href="img/2.png"/>
+<image clip-path="url(#c0_16)" preserveAspectRatio="none" x="47" y="655" width="261" height="144" href="img/3.png"/>
+<path clip-path="url(#c2_16)" d="M386.1 789.5H737.3v2.3H386.1v-2.3Z" class="g0_16"/>
+<g clip-path="url(#c0_16)">
+<image preserveAspectRatio="none" x="342" y="656" width="238" height="145" href="img/4.png"/>
+<image preserveAspectRatio="none" x="0" y="154" width="230" height="144" href="img/5.png"/>
+<image preserveAspectRatio="none" x="0" y="0" width="506" height="293" href="img/6.png"/>
+<image preserveAspectRatio="none" x="961" y="735" width="315" height="145" href="img/7.png"/>
+<image preserveAspectRatio="none" x="961" y="677" width="267" height="145" href="img/8.png"/>
+<image preserveAspectRatio="none" x="14" y="271" width="900" height="256" href="img/9.png"/>
+</g>
+<path d="M631.1 880H1712.2V159.2H631.1V880Z" class="g2_16"/>
+</svg>
