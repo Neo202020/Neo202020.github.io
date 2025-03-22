@@ -27,5 +27,12 @@ document.addEventListener("DOMContentLoaded", function() {
     buildVuLinks.forEach(link => link.remove());
 });
 </script>
+    <script>
+document.addEventListener("DOMContentLoaded", function() {
+    let buildVuLinks = document.querySelectorAll('a[href*="buildvu"], a[title*="BuildVu"]');
+    buildVuLinks.forEach(link => link.remove());
+});
+</script>
+
 </body>
 </html>
